@@ -1,10 +1,24 @@
-- 👋 Hi, I’m @KdtVinicius
-- 👀 I’m interested in ... learning
-- 🌱 I’m currently learning ... TADS - IFRN
-- 💞️ I’m looking to collaborate on ...my homework
-- 📫 How to reach me ... find me
+### Hi there, I'm Vinícius 😸
 
-<!---
-KdtVinicius/KdtVinicius is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I’m currently studying cience of computation omg 🖥️
+
+<div align="center">
+  <a href="https://github.com/KdtVinicius">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arthurmelo777&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurmelo777&layout=compact&langs_count=7&theme=dark"/>
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Vinicius-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Vinicius-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Vinicius-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Vinicius-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Vinicius-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+</div>
+  
+##
+ 
+<div>
+ 
+  ![Snake animation](https://github.com/arthurmelo777/arthurmelo777/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
