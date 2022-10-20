@@ -1,4 +1,4 @@
-### Hi there, I'm Vinícius 😸
+### Hi there, I'm Vinícius.
 
 I’m currently studying cience of computation omg 🖥️
 
