@@ -24,6 +24,6 @@ I’m currently studying science of computation🖥️
   
 <div>
   
-  
+  ![Snake animation](https://github.com/KdtVinicius/KdtVinicius/blob/output/github-contribution-grid-snake.svg)
   
 </div>
