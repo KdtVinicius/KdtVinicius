@@ -19,6 +19,6 @@ I’m currently studying cience of computation omg 🖥️
  
 <div>
  
-  ![Snake animation](https://github.com/KdtVinicius/KdtVinicius/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/KdtVinicius/blob/output/github-contribution-grid-snake.svg)
  
 </div>
