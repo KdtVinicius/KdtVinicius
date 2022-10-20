@@ -1,6 +1,6 @@
 ### Hi there, I'm Vinícius.
 
-I’m currently studying cience of computation omg 🖥️
+I’m currently studying science of computation🖥️
 
 <div align="left">
   <a href="https://github.com/KdtVinicius">
