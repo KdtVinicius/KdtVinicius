@@ -18,11 +18,11 @@ I’m currently studying science of computation🖥️
  
 <div>
  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KdtVinicius&layout=compact)](https://github.com/USERNAME/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?KdtVinicius=KdtVinicius&layout=compact)](https://github.com/KdtVinicius/github-readme-stats)
  
 </div>
 <div>
   
-  ![Snake animation](https://github.com/KdtVinicius/KdtVinicius/blob/output/github-contribution-grid-snake.svg)
+  [![Snake animation](https://github.com/KdtVinicius/KdtVinicius/blob/output/github-contribution-grid-snake.svg)]
   
 </div>
