@@ -1,6 +1,8 @@
-### Hi there, I'm Vinícius.
-
-I’m currently studying science of computation🖥️
+### Olá, meu nome é Vinícius e estou começando a aprender progamação e seus conceitos.
+💭 Estudando C, C#, Assembly.
+🫡 Conhecimento básico em Python, HTML/CSS.
+🎴 Em busca de conhecimento e experiência.
+📢 Contato: vinispencer@outlook.com
 
 <div align="left">
   <a href="https://github.com/KdtVinicius">
