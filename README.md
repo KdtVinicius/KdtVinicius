@@ -1,6 +1,6 @@
 ### Olá, meu nome é Vinícius e estou começando a aprender progamação e seus conceitos. Busco ser um profissional DevSecOps.
-💭 Estudando Java, Python, Django. <br>
-📚 Conhecimento básico em Python, HTML/CSS, C. <br>
+💭 Estudando Python e Django Framework. <br>
+📚 Conhecimento em Python. <br>
 🎴 Em busca de conhecimento e experiência. <br>
 📢 Contato: vinispencer@outlook.com <br>
 
