@@ -19,12 +19,16 @@
   
 ##
   
-<!--
+
 <div>
  
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KdtVinicius&layout=compact)](https://github.com/KdtVinicius/github-readme-stats)
  
 </div>
+  
+<div>[eu](github.com/kdtvinicius)</div>
+ 
+ <!--
 <div>
   
   ![Snake animation](https://github.com/KdtVinicius/KdtVinicius/blob/output/github-contribution-grid-snake.svg)
