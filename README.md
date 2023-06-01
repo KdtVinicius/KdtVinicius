@@ -14,9 +14,9 @@
 </div>
   
   
-<div>
-  [eu](https://github.com/kdtvinicius)
-</div>
+
+[eu](https://github.com/kdtvinicius)
+
  
  <!--
 
