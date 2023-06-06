@@ -21,7 +21,7 @@
 <br/>
   
 <div>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KdtVinicius&layout=compact)](https://github.com/KdtVinicius/github-readme-stats)
+  ![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?KdtVinicius=KDTVINICIUS&layout=compact&theme=dracula)
 </div>
  
 
