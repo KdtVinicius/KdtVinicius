@@ -22,12 +22,7 @@
   
 
 ![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=KdtVinicius&layout=compact&theme=dracula)
-
- 
-
-<!--
-<div>
-  ![Snake animation](https://github.com/KdtVinicius/KdtVinicius/blob/output/github-contribution-grid-snake.svg)
   
-</div>
--->
+<br/>
+
+![snake gif](https://github.com/KdtVinicius/KdtVinicius/blob/output/github-contribution-grid-snake.svg
