@@ -20,9 +20,9 @@
   
 <br/>
   
-<div>
-  ![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=KdtVinicius&layout=compact&theme=dracula)
-</div>
+
+![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=KdtVinicius&layout=compact&theme=dracula)
+
  
 
 <!--
