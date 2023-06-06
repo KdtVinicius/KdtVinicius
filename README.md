@@ -17,8 +17,10 @@
   <a href="https://github.com/KdtVinicius">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KdtVinicius&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
+  
 <br/>
-<div align="left">
+  
+<div>
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KdtVinicius&layout=compact)](https://github.com/KdtVinicius/github-readme-stats)
 </div>
  
